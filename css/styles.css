@@ -36,6 +36,40 @@ hr {
     width: 4%;
 }
 
+.nav-bar {
+    background-color:#b0cef7;
+    padding-bottom: 70px;
+}
+
+.git-logo {
+    position: absolute;
+    right: 300px;
+    top: 26px;
+    height: 20px;
+    width: 35px;
+}
+
+.git-link {
+    position: absolute;
+    right: 250px;
+    top: 28px;
+    font-size: 15px;
+    font-weight: none;
+    font-family: 'Public Sans', sans-serif;
+    color:white;
+    text-decoration: none;
+}
+
+.git-link:hover {
+    color:#ece9e9
+}
+
+.nav-hr {
+    margin: 0px;
+    border: none;
+    border-bottom: none;
+}
+
 .top-container {
     background-color:#C4DDFF;
     position: relative;
@@ -50,6 +84,7 @@ hr {
     background-color:#001D6E;
     padding: 50px 0 20px;
 }
+
 
 .intro {
     width: 30%;
@@ -142,4 +177,3 @@ hr {
     background: #021342;
     text-decoration: none;
   }
-
